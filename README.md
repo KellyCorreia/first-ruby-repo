@@ -1,7 +1,7 @@
-Welcome to the AWS CodeStar sample web application
+ Welcome to the AWS CodeStar sample web application
 ==================================================
 
-This sample code helps get you started with a simple Ruby on Rails web application
+This sample TEST code helps get you started with a simple Ruby on Rails web application
 deployed by AWS Elastic Beanstalk and AWS CloudFormation.
 
 What's Here
